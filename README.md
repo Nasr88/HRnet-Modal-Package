@@ -1,7 +1,8 @@
-📦 **
-# react-alert-modal
+📦 **react-alert-modal**
 
 A simple React Alert Modal component.
+
+## The link to the npm library 📦: https://www.npmjs.com/package/react-alert-modal
 
 ## 🚀 Installation
 
