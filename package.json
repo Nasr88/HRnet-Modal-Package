@@ -1,6 +1,9 @@
 {
   "name": "react-alert-modal",
   "version": "0.1.0",
+  "description": "A simple React Alert Modal component",
+  "keywords": ["react", "modal", "alert"],
+  "author": "Amal Nasr <nasr.amal88@gmail.com>",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
